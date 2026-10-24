@@ -1,0 +1,19 @@
+* text=auto
+
+# Preserve binary artifacts and the exact source dataset bytes.
+*.pdf binary
+*.png binary
+*.zip binary
+*.pt binary
+*.joblib binary
+*.data -text
+*.names -text
+
+# Keep generated exports unchanged and source files portable.
+*.html -text
+*.md text eol=lf
+*.py text eol=lf
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.txt text eol=lf

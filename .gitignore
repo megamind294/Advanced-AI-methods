@@ -1,0 +1,9 @@
+# Local Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+Neural_Networks_Completed_rerun.ipynb

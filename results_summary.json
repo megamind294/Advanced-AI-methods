@@ -1,0 +1,19 @@
+{
+  "best_model": "SGD_momentum",
+  "test_metrics": {
+    "MAE": 1.465256929397583,
+    "MSE": 4.526233673095703,
+    "RMSE": 2.127494694022926,
+    "MAPE_percent": 12.225232273340225,
+    "R2": 0.5818802714347839
+  },
+  "test_rows": 836,
+  "manual_output_before": 0.49059259919421955,
+  "manual_output_after": 0.5010824455129907,
+  "lecture_regression_weights": [
+    5.628223492755086,
+    0.5401286657530199
+  ],
+  "temperature_slope": 1.7999939918518066,
+  "temperature_intercept": 32.0002406835556
+}
